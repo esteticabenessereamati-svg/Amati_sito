@@ -1,0 +1,18 @@
+<svg width="980" height="1180" viewBox="0 0 980 1180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="980" height="1180" fill="#F4ECE5"/>
+  <circle cx="220" cy="180" r="190" fill="#EADDD2"/>
+  <circle cx="860" cy="930" r="280" fill="#DED0C5"/>
+  <rect x="110" y="110" width="760" height="960" rx="70" fill="#FFF9F4" stroke="#D6C5B8" stroke-width="4"/>
+  <path d="M242 765C370 670 600 668 738 765V965H242V765Z" fill="#D8C1AF"/>
+  <circle cx="490" cy="430" r="170" fill="#B79F8A"/>
+  <path d="M343 456C390 520 583 524 638 456C608 605 382 603 343 456Z" fill="#F7DED0"/>
+  <path d="M344 412C356 303 429 238 497 238C589 238 653 313 641 421C582 385 517 375 437 393C402 401 372 407 344 412Z" fill="#2F2926"/>
+  <path d="M402 440C420 455 444 455 462 440" stroke="#6D5848" stroke-width="8" stroke-linecap="round"/>
+  <path d="M523 440C541 455 565 455 583 440" stroke="#6D5848" stroke-width="8" stroke-linecap="round"/>
+  <path d="M455 515C482 536 519 536 546 515" stroke="#6D5848" stroke-width="8" stroke-linecap="round"/>
+  <rect x="210" y="806" width="560" height="118" rx="38" fill="#FFFFFF" stroke="#D6C5B8" stroke-width="4"/>
+  <text x="490" y="853" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#8B725F">Sostituisci immagine</text>
+  <text x="490" y="900" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" fill="#756A63">Inserisci foto reale della titolare o del laser</text>
+  <path d="M248 184H732" stroke="#D6C5B8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M248 995H732" stroke="#D6C5B8" stroke-width="5" stroke-linecap="round"/>
+</svg>

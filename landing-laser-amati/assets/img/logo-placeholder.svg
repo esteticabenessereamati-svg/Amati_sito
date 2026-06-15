@@ -1,0 +1,7 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" rx="48" fill="#F4ECE5"/>
+  <circle cx="120" cy="120" r="78" fill="#FFFFFF"/>
+  <path d="M74 151L111 74H129L166 151H144L137 136H103L96 151H74ZM110 118H130L120 96L110 118Z" fill="#8B725F"/>
+  <path d="M78 171C105 188 136 188 163 171" stroke="#B79F8A" stroke-width="8" stroke-linecap="round"/>
+  <text x="120" y="204" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#2F2926">AMATI</text>
+</svg>
